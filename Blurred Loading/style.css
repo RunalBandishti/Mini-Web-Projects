@@ -1,0 +1,32 @@
+/* font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Questrial', sans-serif; */
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    margin: 0;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Questrial', sans-serif;
+}
+
+.bg{
+    background: url('./Naruto\ 1440\ x\ 810.jpg')no-repeat center center/cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    filter: blur(0px);
+}
+
+.loading-text{
+    font-size:50px;
+    color: #fff;
+}
