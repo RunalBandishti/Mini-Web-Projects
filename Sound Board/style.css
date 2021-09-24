@@ -1,0 +1,40 @@
+/* font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Questrial', sans-serif; */
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color:rgb(161,100,223) ;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Questrial', sans-serif;
+}
+
+.btn{
+    background-color:rebeccapurple;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+    margin: 1rem;
+    padding: 1.5rem 3rem;
+    font-size: 1.5rem;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+.btn:hover{
+    opacity: 0.9;
+}
+
+.btn:focus{
+    outline:none;
+    
+}
