@@ -1,0 +1,51 @@
+/* font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Questrial', sans-serif; */
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #000000;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Questrial', sans-serif;
+}
+
+canvas{
+    background-color: #f5f5f5;
+    border: 2px solid steelblue;
+    border-radius:30px;
+}
+
+.toolbox{
+    background-color:rgb(21, 55, 82);
+    border: 1px solid rgb(37, 33, 60);
+    border-radius:50px;
+    display: flex;
+    width: 604px;
+    padding:0.3rem;
+}
+
+.toolbox > *{
+    background-color:#fff;
+    border: none;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    height:35px;
+    width: 35px;
+    margin: 0.25rem;
+    padding: 0.25rem;
+    cursor: pointer;
+}
+
+.toolbox > *:last-child{
+    margin-left: auto;
+}
