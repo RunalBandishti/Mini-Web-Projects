@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital@1&family=Questrial&display=swap"
+      rel="stylesheet"
+    />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Password Strength</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="background" id="background"></div>
+    <div class="bg-white rounded p-10 text-center shadow-md">
+      <h1 class="text-3xl">Image Password Strength</h1>
+      <p class="text-sm text-gray-700">
+        Change the password to see the effect!
+      </p>
+      <div class="my-4 text-left">
+        <label for="email" class="text-gray-900">Email</label>
+        <input
+          type="text"
+          id="email"
+          class="border block w-full p-2 mt-2 rounded"
+          placeholder="Email Goes Here"
+        />
+      </div>
+      <div class="my-4 text-left">
+        <label for="password" class="text-gray-900">Password</label>
+        <input
+          type="password"
+          id="password"
+          class="border block w-full p-2 mt-2 rounded"
+          placeholder="Password Goes Here"
+        />
+      </div>
+      <button
+        class="bg-black text-white py-2 mt-4 inline-block w-full rounded"
+        type="submit"
+      >
+        Submit
+      </button>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
