@@ -1,104 +1,108 @@
 # Web Development Mini Projects
 
-**Live Demonstration Of Above Mini Projects**:
 
-**3D Background Boxes**: https://runalbandishti.github.io/3D-Effect/
+### **Live Demonstration Of Above Mini Projects**:
 
-**Animated COuntdown**: https://runalbandishti.github.io/Animated-Counter/
+ ***
 
-**Animated Navbar**:
+**3D Background Boxes**:https://runalbandishti.github.io/3D-Effect/
 
-**Autotyping**:
+**Animated COuntdown**:https://runalbandishti.github.io/Animated-Counter/
 
-**Blurred Loading**:
+**Animated Navbar**:https://runalbandishti.github.io/Animated-Navbar/
 
-**Button Ripple**:
+**Autotyping**:https://runalbandishti.github.io/Auto-Text/
 
-**CSS Loader**:
+**Blurred Loading**:https://runalbandishti.github.io/Blurry-Loading/
 
-**Checkboxes**:
+**Button Ripple**:https://runalbandishti.github.io/Ripple-Button/
 
-**Content Place Holder**:
+**CSS Loader**:https://runalbandishti.github.io/Kinetic-CSS-Loader/
 
-**Dad Jokes**:
+**Checkboxes**:https://runalbandishti.github.io/Checkboxes/
 
-**Double Click Like**:
+**Content Place Holder**:https://runalbandishti.github.io/Checkboxes/
 
-**Drawing app**:
+**Dad Jokes**:https://runalbandishti.github.io/Dad-Jokes/
 
-**Drink Water**:
+**Double Click Like**:https://runalbandishti.github.io/Double-Click-For-Like/
 
-**Expanding Cards**:
+**Drawing app**:https://runalbandishti.github.io/Drawing-App/
 
-**FAQ**:
+**Drink Water**:https://runalbandishti.github.io/Daily-Water-Reminder/
 
-**Feedback Ui**:
+**Expanding Cards**:https://runalbandishti.github.io/Expanding-cards/
 
-**Form Input Wave**:
+**FAQ**:https://runalbandishti.github.io/FAQ/
 
-**Github Mod**:
+**Feedback Ui**:https://runalbandishti.github.io/FeedBack-Form/
 
-**Hidden Search Widget**:
+**Form Input Wave**:https://runalbandishti.github.io/Form-Input-Wave-Animation/
 
-**HoverBoard**:
+**Github Mod**:https://runalbandishti.github.io/Github-Mod/
 
-**Image Carousel**:
+**Hidden Search Widget**:https://runalbandishti.github.io/Hidden-Search-Widget/
 
-**Image Slider**:
+**HoverBoard**:https://runalbandishti.github.io/HoverBoard/
 
-**Incremental Counter**:
+**Image Carousel**:https://runalbandishti.github.io/Image-Carousel/
 
-**Insect Game**:
+**Image Slider**:https://runalbandishti.github.io/Background-Slider/
 
-**Keep Notes**:
+**Incremental Counter**:https://runalbandishti.github.io/Incremental-Counter/
 
-**Key Values**:
+**Insect Game**:https://runalbandishti.github.io/Insect-Game/
 
-**Mobile Navigation**:
+**Keep Notes**:https://runalbandishti.github.io/Keep-Notes/
 
-**Movie App**:
+**Key Values**:https://runalbandishti.github.io/Keyboard-Key-Values-Displayer/
 
-**Password Generator**:
+**Mobile Navigation**:https://runalbandishti.github.io/Mobile-Navigation/
 
-**Password Strength**:
+**Movie App**:https://runalbandishti.github.io/Movie-App/
 
-**Pokedex**:
+**Password Generator**:https://runalbandishti.github.io/Password-Generator/
 
-**Progress Steps**:
+**Password Strength**:https://runalbandishti.github.io/Password-Strength/
 
-**Quiz App**:
+**Pokedex**:https://runalbandishti.github.io/Pokedex/
 
-**Random Choice Picker**:
+**Progress Steps**:https://runalbandishti.github.io/Progress-Steps-Pagination/
 
-**Random Feed**:
+**Quiz App**:https://runalbandishti.github.io/Quiz-App/
 
-**Rotating Navigation**:
+**Random Choice Picker**:https://runalbandishti.github.io/Random-Choice-Maker/
 
-**Scroll Animation**:
+**Random Feed**:https://runalbandishti.github.io/Random-Feed/
 
-**Search Filter**:
+**Rotating Navigation**:https://runalbandishti.github.io/Rotating-Navigation/
 
-**Sidebar Navigation**:
+**Scroll Animation**:https://runalbandishti.github.io/Scroll-Animation/
 
-**Slider**:
+**Search Filter**:https://runalbandishti.github.io/Search-Filter/
 
-**Sound Board**:
+**Sidebar Navigation**:https://runalbandishti.github.io/SideBar/
 
-**Split Landing Page**:
+**Slider**:https://runalbandishti.github.io/Range-Slider/
 
-**Sticky Navbar**:
+**Sound Board**:https://runalbandishti.github.io/Sound-Board/
 
-**Testimonial**:
+**Split Landing Page**:https://runalbandishti.github.io/Split-Landing-Page/
 
-**Themed Clock**:
+**Sticky Navbar**:https://runalbandishti.github.io/Sticky-Navbar/
 
-**Toast Notification**:
+**Testimonial**:https://runalbandishti.github.io/Testimonial/
 
-**Todo List**:
+**Themed Clock**:https://runalbandishti.github.io/Theme-Clock/
 
-**Verify Account**:
+**Toast Notification**:https://runalbandishti.github.io/Toast-Notification/
 
-**Vertical Slider**:
+**Todo List**:https://runalbandishti.github.io/Todo-List/
 
+**Verify Account**:https://runalbandishti.github.io/Verify-Account/
+
+**Vertical Slider**:https://runalbandishti.github.io/Vertical-Slider/
+
+***
 
 
