@@ -20,7 +20,7 @@
 
 **Checkboxes**:https://runalbandishti.github.io/Checkboxes/
 
-**Content Place Holder**:https://runalbandishti.github.io/Checkboxes/
+**Content Place Holder**:https://runalbandishti.github.io/Placeholder-/
 
 **Dad Jokes**:https://runalbandishti.github.io/Dad-Jokes/
 
