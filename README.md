@@ -5,7 +5,6 @@
 
  ***
 
-**3D Background Boxes**:https://runalbandishti.github.io/3D-Effect/
 
 **Animated COuntdown**:https://runalbandishti.github.io/Animated-Counter/
 
@@ -102,6 +101,8 @@
 **Verify Account**:https://runalbandishti.github.io/Verify-Account/
 
 **Vertical Slider**:https://runalbandishti.github.io/Vertical-Slider/
+
+**3D Background Boxes**:https://runalbandishti.github.io/3D-Effect/
 
 ***
 
